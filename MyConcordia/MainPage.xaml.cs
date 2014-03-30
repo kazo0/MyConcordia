@@ -46,8 +46,6 @@ namespace MyConcordia
 				e.Cancel = true;
 				Browser.GoBack();
 			}
-			//e.Cancel = true;
-				//Browser.InvokeScript("eval", "history.go(-1)");
 		
 
 		}
